@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local bot configuration
+.env.*
+!.env.example
+.vscode/
+bot_coordinates.json
